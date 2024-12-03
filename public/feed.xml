@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Blog | Gokari</title>
+      <link>https://musing.vercel.app/blog</link>
+      <description>My personal blog where I share my musings</description>
+      <language>en-us</language>
+      <managingEditor>desaiparth2000@gmail.com (Gokari)</managingEditor>
+      <webMaster>desaiparth2000@gmail.com (Gokari)</webMaster>
+      <lastBuildDate>Sun, 15 Sep 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://musing.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://musing.vercel.app/blog/Apple-Competition</guid>
+    <title>Library Catalog System</title>
+    <link>https://musing.vercel.app/blog/Apple-Competition</link>
+    <description>It was Developed Console based Application used by Core Java.</description>
+    <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
+    <author>desaiparth2000@gmail.com (Gokari)</author>
+    <category>Core Java</category><category>Eclipse</category>
+  </item>
+
+  <item>
+    <guid>https://musing.vercel.app/blog/Apple-Privacy</guid>
+    <title>BankY</title>
+    <link>https://musing.vercel.app/blog/Apple-Privacy</link>
+    <description>It was Developed Console based Application used by Core Java.</description>
+    <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
+    <author>desaiparth2000@gmail.com (Gokari)</author>
+    <category>Core Java</category><category>Eclipse</category>
+  </item>
+
+  <item>
+    <guid>https://musing.vercel.app/blog/WWDC22</guid>
+    <title>Tic Tac Toe</title>
+    <link>https://musing.vercel.app/blog/WWDC22</link>
+    <description>It was Developed web Application used by HTML, CSS and JavaScript.</description>
+    <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+    <author>desaiparth2000@gmail.com (Gokari)</author>
+    <category>HTML</category><category>CSS</category><category>JavaScript</category>
+  </item>
+
+  <item>
+    <guid>https://musing.vercel.app/blog/spotify-refresh-token</guid>
+    <title>Portfolio</title>
+    <link>https://musing.vercel.app/blog/spotify-refresh-token</link>
+    <description>It was Developed web Application used by HTML, CSS and JavaScript.</description>
+    <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+    <author>desaiparth2000@gmail.com (Gokari)</author>
+    <category>HTML</category><category>CSS</category><category>JavaScript</category>
+  </item>
+
+    </channel>
+  </rss>
